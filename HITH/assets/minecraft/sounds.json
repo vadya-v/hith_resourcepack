@@ -1,0 +1,38 @@
+{
+        "fight_OST_until_my_bones_shatter": {
+            "category": "music",
+            "sounds": [
+                "fight_OST_until_my_bones_shatter"
+            ]
+        },
+        "sculk_OST_city_deep_below": {
+            "category": "music",
+            "sounds": [
+                "sculk_OST_city_deep_below"
+            ]
+        },
+        "sculk_OST_jisatsu_suru": {
+            "category": "music",
+            "sounds": [
+                "sculk_OST_jisatsu_suru"
+            ]
+        },
+        "sculk_OST_The_Great_Order_of_Things": {
+            "category": "music",
+            "sounds": [
+                "sculk_OST_The_Great_Order_of_Things"
+            ]
+        },
+        "sculk_OST_time_dilation": {
+            "category": "music",
+            "sounds": [
+                "sculk_OST_time_dilation"
+            ]
+        },
+        "message_fatal_error": {
+            "category": "music",
+            "sounds": [
+                "message_fatal_error"
+            ]
+        }
+}
